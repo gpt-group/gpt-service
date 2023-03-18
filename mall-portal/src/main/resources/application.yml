@@ -1,6 +1,6 @@
 spring:
   application:
-    name: mall-portal
+    name: chatgpt-background-service
   profiles:
     active: dev #默认为开发环境
   mvc:
